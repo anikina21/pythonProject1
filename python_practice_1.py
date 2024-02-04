@@ -1,0 +1,1 @@
+print("Anikina Anastasiia KN2 group 1")
